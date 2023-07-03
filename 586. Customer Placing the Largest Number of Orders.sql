@@ -35,8 +35,7 @@
 -- So the result is customer_number '3'.
 
 
--- Solution_1 :
--- Ranking them according to the number of orders to have same rank for customers with same number of orders
+-- Solution_1 :  Ranking them according to the number of orders to have same rank for customers with same number of orders
 With t1 as 
 (
   Select customer_number, 
