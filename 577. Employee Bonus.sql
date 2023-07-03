@@ -1,6 +1,5 @@
 577. Employee Bonus
 
--- Question 4
 -- Select all employee's name and bonus whose bonus is < 1000.
 
 -- Table:Employee
