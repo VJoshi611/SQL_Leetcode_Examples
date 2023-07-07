@@ -51,3 +51,14 @@ id      name      id          name
 3         b     (NULL)       (NULL)
 
 5         c     (NULL)       (NULL)
+
+
+__________________________________________________________________________________________________________________________________________
+
+- joining three table syntax :
+SELECT *
+FROM a
+JOIN b
+  ON a.id = b.id
+JOIN c
+  ON c.id = b.id;
