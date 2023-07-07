@@ -25,6 +25,7 @@ Tree table:
 | 4  | Leaf  |
 | 5  | Leaf  |
 +----+-------+
+
 Explanation: 
 Node 1 is the root node because its parent node is null and it has child nodes 2 and 3.
 Node 2 is an inner node because it has parent node 1 and child node 4 and 5.
