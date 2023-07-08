@@ -1,5 +1,5 @@
 ## SQL JOIN
-A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
+A JOIN clause is used to combine rows from two or more tables, based on a related column between them. joins can be used when we have multiple tables and want combine data from them based on matching columns.
 
 - Different Types of SQL JOINs :
 
