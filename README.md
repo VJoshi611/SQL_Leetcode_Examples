@@ -1,7 +1,10 @@
-# SQL_Leetcode_Examples :
-This repo  contains my solved SQL solution on LeetCode.
-I have discussed various approach to solve particular question.
+# SQL_Leetcode_Examples 🚀
+Welcome to my SQL LeetCode Solutions repository! Here, I’ve solved various LeetCode SQL problems, providing multiple approaches to tackle each one. 💻✨
 
-## Refer w3schools for theortical understanding. 
+📚 What’s Inside:
+- Solved SQL Questions with detailed explanations
+- Various approaches for each problem to help deepen your understanding
+- Clear breakdown of INNER JOIN, LEFT JOIN, and other key SQL concepts
 
-https://www.w3schools.com/sql/
+🔗 Helpful Resources:
+For theoretical understanding of SQL, check out the w3schools SQL tutorial.
